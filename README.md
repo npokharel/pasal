@@ -1,4 +1,0 @@
-pasal
-=====
-
-Pasal Analytics
